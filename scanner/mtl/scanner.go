@@ -3,7 +3,7 @@ package mtl
 import (
 	"errors"
 	"io"
-	"github.com/mokiat/go-data-front/common"
+	"github.com/leapar/go-data-front/common"
 )
 
 // MaterialEvent indicates that a material declaration (`newmtl`) has

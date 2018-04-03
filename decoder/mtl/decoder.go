@@ -4,8 +4,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/mokiat/go-data-front/common"
-	scanMTL "github.com/mokiat/go-data-front/scanner/mtl"
+	"github.com/leapar/go-data-front/common"
+	scanMTL "github.com/leapar/go-data-front/scanner/mtl"
 )
 
 // DecodeLimits specifies restrictions on parsing.
